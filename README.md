@@ -11,4 +11,4 @@ missing values are replaced with mode for categorical columns, mean for numerica
 Once all missing values are handeled we proceed with data type correction.
 Few new features are created and old ones are deleted.
 Outlers are removed
-EDA is performed and finally various regression and classification models are build.
+EDA is performed and finally various regression and classification models are build..
